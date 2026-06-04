@@ -1,0 +1,4 @@
+# Ignore ROS build artifacts in any workspace
+**/build/
+**/install/
+**/log/
